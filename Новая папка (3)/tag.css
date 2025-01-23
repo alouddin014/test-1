@@ -1,0 +1,27 @@
+h1{
+    background-color: burlywood;
+    text-align: center;
+}
+.morf{
+    background-color: black;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 25px;
+}
+label{
+    color: yellow;
+
+}
+input{
+    border-radius: 25px;
+    outline: none;
+}
+button{
+    color: white;
+    background-color: green;
+    width: 300px;
+    border-radius: 25px;
+}
+input :focus{
+    border: 2px red solid;
+}
